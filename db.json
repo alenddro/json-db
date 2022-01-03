@@ -6,10 +6,10 @@
     { "id": 4, "title": "Sistema Software Alumnos Duoc", "descripcion": "Sistema para que los alumnos puedan descargar los software gratuitos dependiendo de su escuela de estudios","lenguajes": "Realizada en PHP(Codeigniter 4) con MySql, HTML, Javascript, CSS(Bootstrap 4)", "img": "ruta imagen" }
   ],
   
-  "profile":[
+  "profile":{
     "name": "Alexander Bravo Moya",
     "about":"Programador de software en los lenguajes PHP, Python, React"
     "email": "alexbrmo@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/abravom/"
-  ],
+  }
 }
