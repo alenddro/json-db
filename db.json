@@ -3,14 +3,13 @@
     { "id": 1, "title": "Agenda Telefonica Ohiggins","descripcion":"Sistema para llevar registro de numero de telefonos internos de administrativos y docentes" ,"lenguajes": "Realizada en PHP con MySql, HTML, Javascript, CSS", "img": "ruta imagen" },
     { "id": 2, "title": "Sistema Interno Inacap", "descripcion": "Sistema para llevar control de prestamos de insumos audiovisuales, administrativos y docentes, registro de equipamiento activo fijo e inventario, registro de prestamo de salas y laboratrios disponibles","lenguajes": "Realizada en PHP con MySql, HTML, Javascript, CSS(Bootstrap 3), Jquery", "img": "ruta imagen" },
     { "id": 3, "title": "Sistema Interno Duoc", "descripcion": "Sistema para llevar control de prestamos de insumos administrativos y docentes, registro de equipamiento activo fijo e inventario, registro de prestamo de salas y laboratrios disponibles","lenguajes": "Realizada en PHP(Codeigniter 4) con MySql, HTML, Javascript, CSS(Bootstrap 4)", "img": "ruta imagen" },
-    { "id": 4, "title": "Sistema Software Alumnos Duoc", "descripcion": "Sistema para que los alumnos puedan descargar los software gratuitos dependiendo de su escuela de estudios","lenguajes": "Realizada en PHP(Codeigniter 4) con MySql, HTML, Javascript, CSS(Bootstrap 4)", "img": "ruta imagen" },
+    { "id": 4, "title": "Sistema Software Alumnos Duoc", "descripcion": "Sistema para que los alumnos puedan descargar los software gratuitos dependiendo de su escuela de estudios","lenguajes": "Realizada en PHP(Codeigniter 4) con MySql, HTML, Javascript, CSS(Bootstrap 4)", "img": "ruta imagen" }
   ],
   
-  "profile": {
+  "profile":[
     "name": "Alexander Bravo Moya",
     "about":"Programador de software en los lenguajes PHP, Python, React"
     "email": "alexbrmo@hotmail.com",
-    "linkedin": "https://www.linkedin.com/in/abravom/",
-    
-  }
+    "linkedin": "https://www.linkedin.com/in/abravom/"
+  ],
 }
