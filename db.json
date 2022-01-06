@@ -14,7 +14,20 @@
   
   "profile":{
     "name": "Alexander Bravo Moya",
-    "about":"Programador de software en los lenguajes PHP, Python, React",
+    "about":"Titulado de Ing. En Informática, me encanta el mundo del desarrollo tanto back como front end, me he desempeñado como operador técnico y desarrollador de sistemas, los lenguajes con los que me desempeño mayormente son PHP, Python, MySql, PostgreSQL, MSSql, JS, Jquery y algunos frameworks:
+- Django (Python),
+- Legobox (PHP),
+- Codeigniter 4 (PHP),
+- Bootstrap, bulma y Materialize (CSS),
+
+Actualmente me encuentro realizando un Diplomado en Desarrollo Web en la pontificia universidad católica de chile donde los temas a tratar son:
+
+- Herramientas básicas de programación en Python
+- Python y la WWW con Django
+- JavaScript el lenguaje de la Web
+- Desarrollo en base a componentes con React
+
+Orientado al trabajo en equipo, investigar, aprender cada día, mejorar, seguir reglas, comprometido con el trabajo y las personas.",
     "email": "alexbrmo@hotmail.com",
     "img": "https://media-exp1.licdn.com/dms/image/C4D03AQHKJnaBNaDd9w/profile-displayphoto-shrink_800_800/0/1622663495124?e=1646870400&v=beta&t=WirChlNptg-ABHYof5ej0J3RU5mMpDtI1b6hVtgUHcE",
     "linkedin": "https://www.linkedin.com/in/abravom/"
