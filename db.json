@@ -12,8 +12,9 @@
     ],
 
     "practicas":[
-        {"id":1, "anio":"2022", "titulo":"API Rick and Morty + React con Hooks","descripcion":"Practica de react utilizando la api de rick and morty.", "lenguajes":"Ract + Hooks + API", "img":"https://drive.google.com/uc?export=view&id=1ImsOK4fXfPF54BSLga6tKBUWAbWEASeF"},
-        {"id":2, "anio":"2021", "titulo":"Indicadores economicos API + Codeigniter 4 + Morris ChartJS","descripcion":"Practica de graficacion y obtencion de datos de la api de indicacdores economicos, filtrando por tipo y rango de fecha.", "lenguajes":"Ract + Hooks + API", "img":"https://drive.google.com/uc?export=view&id=11csPGIckBp-Kwn7jjU53SLdfQnh1uTqa"}
+       
+         {"id":1, "anio":"2021", "titulo":"Indicadores economicos API + Codeigniter 4 + Morris ChartJS","descripcion":"Practica de graficacion y obtencion de datos de la api de indicacdores economicos, filtrando por tipo y rango de fecha.", "lenguajes":"Ract + Hooks + API", "img":"https://drive.google.com/uc?export=view&id=11csPGIckBp-Kwn7jjU53SLdfQnh1uTqa"},
+         {"id":2, "anio":"2022", "titulo":"API Rick and Morty + React con Hooks","descripcion":"Practica de react utilizando la api de rick and morty.", "lenguajes":"Ract + Hooks + API", "img":"https://drive.google.com/uc?export=view&id=1ImsOK4fXfPF54BSLga6tKBUWAbWEASeF"}
     ],
 
     "profile":{
